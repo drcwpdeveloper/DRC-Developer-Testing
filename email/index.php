@@ -1,4 +1,6 @@
 <?php
+
+die('hahahah hack by  :)');
 $to = "dhirendra.rathod@drcinfotech.com";
 $subject = "HTML email";
 
