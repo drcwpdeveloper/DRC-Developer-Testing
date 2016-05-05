@@ -1,7 +1,12 @@
 <?php
-
+echo 'arshak shah nwe'
 die('hahahah hack by  :)');
+<<<<<<< HEAD
 $to = "dhirendra.rathod@drcinfotech.com"; //darshak @dadfasd fsldflsadfjlas darshak shah nwe
+=======
+$to = "dhirendra.rathod@drcinfotech.com"; //This is write by Mr.Rathod
+$to = "dhirendra.rathod@drcinfotech.com"; //darshak @dadfasd fsldflsadfjlas
+>>>>>>> origin/master
 $subject = "HTML email";
 
 $message = "
