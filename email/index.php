@@ -1,7 +1,7 @@
 <?php
 
 die('hahahah hack by  :)');
-$to = "dhirendra.rathod@drcinfotech.com"; //darshak @dadfasd fsldflsadfjlas
+$to = "dhirendra.rathod@drcinfotech.com"; //darshak @dadfasd fsldflsadfjlas darshak shah nwe
 $subject = "HTML email";
 
 $message = "
