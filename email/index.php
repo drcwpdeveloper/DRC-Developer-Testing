@@ -1,12 +1,5 @@
 <?php
-echo 'arshak shah nwe'
-die('hahahah hack by  :)');
-<<<<<<< HEAD
-$to = "dhirendra.rathod@drcinfotech.com"; //darshak @dadfasd fsldflsadfjlas darshak shah nwe
-=======
-$to = "dhirendra.rathod@drcinfotech.com"; //This is write by Mr.Rathod
-$to = "dhirendra.rathod@drcinfotech.com"; //darshak @dadfasd fsldflsadfjlas
->>>>>>> origin/master
+$to = "xxx.xx@xx.com";
 $subject = "HTML email";
 
 $message = "
@@ -43,6 +36,5 @@ if(mail($to,$subject,$message,$headers))
 }else
 {
 	echo "Not done";
-}
-        asdfadfasdf
+}       
 ?> 
