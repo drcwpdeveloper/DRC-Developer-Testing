@@ -1,19 +1,11 @@
 <?php
-<<<<<<< HEAD
-dar
 echo 'arshak shah nwe'
 die('hahahah hack by  :)');
-<<<<<<< HEAD
 $to = "dhirendra.rathod@drcinfotech.com"; //darshak @dadfasd fsldflsadfjlas darshak shah nwe
-=======
 $to = "dhirendra.rathod@drcinfotech.com"; //This is write by Mr.Rathod
 $to = "dhirendra.rathod@drcinfotech.com"; //darshak @dadfasd fsldflsadfjlas
->>>>>>> origin/master
-=======
 $to = "xxx.xx@xx.com";
->>>>>>> origin/master
 $subject = "HTML email";
-
 $message = "
 <html>
 <head>
@@ -34,7 +26,6 @@ $message = "
 </body>
 </html>
 ";
-
 // Always set content-type when sending HTML email
 $headers = '';
 $headers = 'MIME-Version: 1.0'.PHP_EOL;
