@@ -1,4 +1,5 @@
 <?php
+dar
 echo 'arshak shah nwe'
 die('hahahah hack by  :)');
 <<<<<<< HEAD
