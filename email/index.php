@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 
 echo "Dhirendrasinh Rathod.............";
@@ -44,3 +45,6 @@ if(mail($to,$subject,$message,$headers))
 	echo "Not done";
 }       
 ?> 
+=======
+Darshak 2:)
+>>>>>>> origin/master

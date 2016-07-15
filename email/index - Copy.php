@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 $to = "xxx.xx@xx.com";
 $subject = "HTML email";
@@ -40,3 +41,6 @@ if(mail($to,$subject,$message,$headers))
 	echo "Not done";
 }       
 ?> 
+=======
+Darshak 1 :)
+>>>>>>> origin/master
